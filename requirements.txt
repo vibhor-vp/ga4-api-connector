@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+google-analytics-data
+pydantic
+python-dotenv
